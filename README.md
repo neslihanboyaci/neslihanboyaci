@@ -1,10 +1,8 @@
 <!-- 🌸 NESLİ — Soft Pink Developer README 🌸 -->
 
 
-
-  <img src="![Adsız tasarım (1)](https://github.com/user-attachments/assets/6d8c3037-8013-46de-a5a2-41a909129149)
-
-" width="350"/> ![Uploading Adsız tasarım (1).gif…]()
+<img src="https://github.com/user-attachments/assets/6d8c3037-8013-46de-a5a2-41a909129149" width="350"/>
+  
 
 
 </p>
