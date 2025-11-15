@@ -1,8 +1,7 @@
 <!-- 🌸 NESLİ — Soft Pink Developer README 🌸 -->
 
 <p align="center">
-  <!-- GIFİNİ BURAYA KOY AŞKIM -->
-  <img src="GIF_LINKINI_BURAYA_YAZ" width="350"/>
+  <img src="https://files.catbox.moe/1qab2u.gif" width="350"/>
 </p>
 
 <h1 align="center" style="color:#ffb3d9;">✨ Welcome to My Soft Developer Space ✨</h1>
@@ -18,7 +17,7 @@
     <br><br>
     I'm a student at the beginning of my software development journey —  
     growing softly, learning deeply, and improving every single day. ✨  
-    <br>
+    <br><br>
     This GitHub is where I document my learning path,  
     strengthen my fundamentals,  
     and keep track of my small but meaningful steps.  
@@ -78,46 +77,6 @@
 ## 🌸 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/C++-f8c8dc?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Algorithms-f7d6e8?style=for-the-badge&logo=code&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Data%20Structures-fce4ec?style=for-the-badge&logo=buffer&logoColor=white"/>  
-</p>
+  <img src="https://img.shields.io/badge/Algorithms-f7d6e8?style=for-the-badge&logo=code
 
----
-
-## 🌸 Soft Developer Quotes  
-> 💗 *“Small steps, big progress.”*  
-> 💗 *“Your future is compiling.”*  
-> 💗 *“Soft on the outside, powerful on the inside.”*  
-> 💗 *“Every bug teaches me something.”*  
-> 💗 *“I don’t chase perfection; I iterate.”*  
-
----
-
-## 🌸 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neslihanboyaci&theme=rose_pine&hide_border=true&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neslihanboyaci&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🌸 Socials  
-<p align="center">
-  <a href="https://instagram.com/neslihanboyaci_">
-    <img src="https://img.shields.io/badge/Instagram-f7b6d7?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:neslibyc.69@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-f8ddea?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=neslihanboyaci&color=10&icon=0"/>
-</p>
-
-<p align="center">
-  <i style="color:#f7c4dd;">🌷 Pastel bir dünyada kodlarla büyüyorum… 🌷</i>
-</p>
 
