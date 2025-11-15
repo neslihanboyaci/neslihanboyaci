@@ -11,7 +11,7 @@
 
 ---
 
-## <p align="center" style="color:#ffb3d9;">🌸 *About Me BENİ BÖLME ENSAR* 🌸</p>
+## <p align="center" style="color:#ffb3d9;">🌸 *About Me* 🌸</p>
 
 <p align="center">
   <i>
