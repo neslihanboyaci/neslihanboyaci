@@ -1,7 +1,7 @@
 <!-- 🌸 NESLİ — Soft Pink Developer README 🌸 -->
 
 
-<img src="https://github.com/user-attachments/assets/6d8c3037-8013-46de-a5a2-41a909129149" width="350"/>
+  <img src="https://github.com/user-attachments/assets/6d8c3037-8013-46de-a5a2-41a909129149" width="350"/>
   
 
 
