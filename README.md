@@ -2,8 +2,11 @@
 
 
 
-  <img src="![Uploading Adsız tasarım (1).gif…]()
-" width="350"/>
+  <img src="![Adsız tasarım (1)](https://github.com/user-attachments/assets/6d8c3037-8013-46de-a5a2-41a909129149)
+
+" width="350"/> ![Uploading Adsız tasarım (1).gif…]()
+
+
 </p>
 
 <h1 align="center" style="color:#ffb3d9;">✨ Welcome to My Soft Developer Space ✨</h1>
