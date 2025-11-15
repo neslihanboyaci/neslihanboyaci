@@ -1,6 +1,6 @@
 <!-- 🌸 NESLİ — Soft Pink Developer README 🌸 -->
 
-<p align="center">![Uploading Adsız tasarım (1).gif…]()
+
 
   <img src="https://files.catbox.moe/1qab2u.gif" width="350"/>
 </p>
