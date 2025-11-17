@@ -1,7 +1,7 @@
 <!-- 🌸 NESLİ — Soft Pink Developer README 🌸 -->
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/6d8c3037-8013-46de-a5a2-41a909129149" width="850"/> 
+   <img src="https://github.com/user-attachments/assets/6d8c3037-8013-46de-a5a2-41a909129149" width="600"/> 
 
 </p>
  
@@ -16,7 +16,6 @@
 
 <p align="center">
   <i>
-    <img src="https://img.icons8.com/?size=80&id=y3jghJv5xZFt&format=png" width="24"/>  
     Hello, I'm Nesli. 👋  
     <br><br>
     I'm a student at the beginning of my software development journey —  
@@ -34,11 +33,11 @@
   <i>
     <img src="https://img.icons8.com/?size=80&id=40670&format=png" width="22"/> Basic programming principles  
     <br>
-    <img src="https://img.icons8.com/?size=80&id=U6Aq4p8MbsXd&format=png" width="22"/> Building algorithms & solving problems  
+   Building algorithms & solving problems  
     <br>
-    <img src="https://img.icons8.com/?size=80&id=59779&format=png" width="22"/> Number systems  
+ Number systems  
     <br>
-    <img src="https://img.icons8.com/?size=80&id=J5rbF04XbULv&format=png" width="22"/> Practicing with C/C++  
+   Practicing with C/C++  
   </i>
 </p>
 
@@ -48,7 +47,6 @@
 
 <p align="center">
   <i>
-    <img src="https://img.icons8.com/?size=80&id=Q9C0i6LZTQHa&format=png" width="22"/>  
     Each day, I try to understand things a bit better;  
     write cleaner, clearer code;  
     and grow step by step. ✨  
@@ -79,6 +77,10 @@
 ## 🌸 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/C++-f8c8dc?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Algorithms-f7d6e8?style=for-the-badge&logo=code
+  <img src="https://img.shields.io/badge/Algorithms-f7d6e8?style=for-the-badge&logo=code"/>
+</p>
+
+   <!-- BURADA SPOTİFY VAR LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO -->
+  <img src="https://spotify-github-profile.onrender.com/card?uid=31lmzhpy2migtudcggvvnrrth73y&theme=classic" />
 
 
