@@ -81,6 +81,7 @@
 </p>
 
    <!-- BURADA SPOTİFY VAR LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO -->
+   <p align="center">
   <img src="https://spotify-github-profile.onrender.com/card?uid=3jx890yg935h0jx8om5q10ntd&theme=classic" />
 
 
